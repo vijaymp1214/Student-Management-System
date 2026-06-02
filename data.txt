@@ -1,0 +1,2 @@
+divya,Male,Python ,Mumbai
+vijay,Male,Python ,Delhi
