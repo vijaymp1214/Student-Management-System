@@ -160,7 +160,7 @@ java StudentManagementApp
 
 ### Vijay Prajapati
 
-Java Developer | Frontend Developer
+Java Developer 
 
 ---
 
